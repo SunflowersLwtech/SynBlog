@@ -184,7 +184,7 @@ export default function Home() {
           </CardHeader>
           <CardContent className="space-y-2">
             <p className="text-lg">计算机科学理学荣誉学士 (双学位)</p>
-            <p className="text-lg font-semibold text-blue-400">CGPA: 3.86 / 4.00 (一等荣誉学位)</p>
+            <p className="text-lg font-semibold text-blue-400">CGPA: 3.87 / 4.00 (一等荣誉学位)</p>
             <p className="text-muted-foreground">荣获入学奖学金 (Entrance Scholarship)</p>
           </CardContent>
         </Card>
